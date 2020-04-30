@@ -1,0 +1,33 @@
+{
+  "name": "@gm/gmcw-team.gmcw-nexus-readme",
+  "version": "1.0.0",
+  "description": "Readme files for GMCW Nexus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gmcw",
+    "nexus",
+    "meta",
+    "readme"
+  ],
+  "homepage": "https://nexus.gmcw.dev",
+  "author": {
+    "name": "GMCW Team",
+    "email": "team@gmcw.dev",
+    "url": "https://nexus.gmcw.dev"
+  },
+  "contributors": [
+    {
+      "name": "meseta",
+      "email": "public@meseta.dev",
+      "url": "https://github.com/meseta"
+    }
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/gmcw-team/gmcw-nexus-meta"
+  },
+  "license": "MIT"
+}
